@@ -1,0 +1,5 @@
+# Turn rewrite engine on
+Options +FollowSymlinks
+RewriteEngine on
+
+# map nest URL to internal URL
